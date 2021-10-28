@@ -5,7 +5,7 @@
     <div class="site-header-float">
     {% include _i18n/sitetitle.html class=true %}
     {% if site.pitch %}
-      <span class="site-pitch">{% include _i18n/i18n.html value=site.pitch %}</span>
+      <span class="site-pitch">{% include _i18n/i18n.html value=site.pitch %}onclick = "void(0)"</span>
     {% endif %}
 
     {% if site.pitch == null %}
