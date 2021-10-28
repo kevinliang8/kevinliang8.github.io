@@ -32,6 +32,7 @@ curriculum: https://drive.google.com/file/d/1OE-LGnCqFZ_uGPVWDuOIYejBCBwt2LLS/vi
 theme: academic
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
