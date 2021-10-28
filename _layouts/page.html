@@ -2,6 +2,21 @@
 layout: default
 ---
 
-<h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
+{% if site.pitch == null %}
+  {% assign div_class = "home" %}
+{% else %}
+  {% assign div_class = "home pitch" %}
+{% endif %}
 
-{{ content }}
+<div class="{{ div_class }}">
+    <article class="about-col about-col-2" itemscope itemtype="http://schema.org/BlogPosting">
+        <h1>{{ page.title | escape }}</h1>
+
+        {{ content }}
+    </article>
+    
+</div>
+
+
+
