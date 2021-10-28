@@ -9,11 +9,17 @@ layout: default
   {% assign div_class = "home pitch" %}
 {% endif %}
 
+<style>
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+</style>
+
 <div class="{{ div_class }}">
     <article class="about-col about-col-2" itemscope itemtype="http://schema.org/BlogPosting">
         <h1>{{ page.title | escape }}</h1>
-
-        
     </article>
     <article>
         {{ content }}
