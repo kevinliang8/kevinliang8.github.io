@@ -3,9 +3,10 @@
   {{ site.data.academic_i18n.links[plang] }}
 </span>
 <ul class="contact-list {{ include.class }}">
-  <li>
-    {% include _icons/rss.html %}
-  </li>
+
+  {% if site.github_username %}
+    <img class="user-picture" src="https://github.com/{{ site.github_username }}.png" alt="{{ site.author }}" width = "200" height = "auto">
+    {% endif %}
 
   {% if site.github_username %}
   <li>

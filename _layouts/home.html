@@ -10,15 +10,25 @@ layout: default
 {% endif %}
 
 <div class="{{ div_class }}">
-  {% unless site.pitch %}
+
+  <ul class="contact-list">
+    <li>
+      {% include _icons/email.html username=site.email %}
+    </li>
+
+    <li>
+      {% include _icons/file.html curriculum=site.curriculum %}
+    </li>
+  </ul>
+
+  
   <p>{% include _i18n/i18n.html value=site.description %}</p>
-  {% endunless %}
+  
+  <div>SITE UNDER CONSTRUCTION</div>
 
   {{ content }}
 
   {% include post-ul.html limit=true %}
-
-  {% include calltoaction.html %}
 
   {% assign nb_posts = site.posts | size %}
 

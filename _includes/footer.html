@@ -20,15 +20,12 @@
         </li>
         {% endif %}
 
-        {% if site.description %}
-        <li>{% include _i18n/i18n.html value=site.description %}</li>
-        {% endif %}
+        
 
       </ul>
 
       {% if site.pitch %}
         <nav>
-        {% include nav_menu.html class="footer-col footer-col-2"%}
         {% include contactlist.html class="single-col" %}
         </nav>
       {% else %}
@@ -42,12 +39,7 @@
         {% include _i18n/lang_selector.html %}
       {% endif %}
 
-      <div class="tech">
-        <a target="_blank" href="https://jekyllrb.com/">Jekyll</a> + <a target="_blank" href="https://github.com/gaalcaras/academic">Academic</a>
-        {% if site.repo %}
-        + <a target="_blank" href="{{ site.repo }}">Source</a>
-        {% endif %}
-      </div>
+
 
       <div class="legal">
       {% if site.cc == null %}©{% endif %}
