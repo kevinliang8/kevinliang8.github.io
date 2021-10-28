@@ -5,26 +5,31 @@ permalink: /research/
 ---
 
 <br>
-<br>
-<br>
-UNDER CONSTRUCTION
-
-I'm not sure how you found this, but please come back later :)
 <h3 style="text-align:center;">Current Projects</h3>
 <br>
 <u>Syntactic Category Acquistion</u>
 
+<img src = "/images/manchester.png" class="center" width = "500" height = "auto">
+<p style="text-align:center;"><i>Child-directed speech from the Manchester Corpus</i></p>
+
 Advisor: <a href="https://www.ling.upenn.edu/~ycharles/">Charles Yang</a>
 
-Manuscript to be submitted.
+An important task faced by children during language acquisition is the formation of syntactic categories from individual words. Distributional cues such as frequent frames have been proposed but their utility under realistic learning situations remain unclear. Since frequent frames are lexical, they result in a proliferation of word classes that do not correspond to recognized syntactic categories. Thus, we propose the <b><i>Category Frame Learner (CFL)</i></b> model which uses the Tolerance Principle, a mathematically precise method of language learning, to combine lexical frames into category frames defined over syntactic categories. 
 
-View <a href="https://youtu.be/u2CzJliWlYQ">video overview</a>.
+This work will be presented at a poster session of the Boston University Conference on Language Development (BUCLD) in November 2021 and as a talk at the Linguistics Society of America Annual Meeting in January 2022. You can view the BUCLD video overview <a href="https://youtu.be/u2CzJliWlYQ">here</a> and the poster <a href="https://drive.google.com/file/d/1cRuRvgVrL38WP7U-XlmRaYwK9p0D7iDJ/view?usp=sharing">here</a>.
 
-View <a href="https://drive.google.com/file/d/1cRuRvgVrL38WP7U-XlmRaYwK9p0D7iDJ/view?usp=sharing">BUCLD poster</a>.
+<i>Manuscript in progress.</i> An earlier version of a manuscript for this project can be accessed <a href="https://drive.google.com/file/d/1q_Bzh6pX6mTeXibn2rrWXtZQA96RA09g/view?usp=sharing">here</a>
 
 <u>Cross-Situational Word Learning Model Bakeoff</u>
 
+<img src = "/images/xsitmodels.png" class="center" width = "400" height = "auto">
+<p style="text-align:center;"><i>Illustration of cross-situational word learning models</i></p>
+
 Advisors: <a href="http://www.kachergis.com/">George Kachergis</a>, <a href="https://web.stanford.edu/~mcfrank/">Michael Frank</a>
+
+This project began as part of my summer 2021 internship at the Stanford Language and Cognition Lab. Many computational models of cross-situational word learning have been proposed, but there is a lack of systematic comparison across a wide range of studies. This study aims to address this gap by performing a large-scale comparison of several models on naturalistic data. I expanded this project from using adult experimental data to child-directed corpora. Moreover, I implemented a new method for generating annotated corpora for cross-situational word learninge experiments from CHILDES transcripts. 
+
+<i>Manuscript in progress.</i>
 
 <h3 style="text-align:center;">Previous Projects</h3>
 <br>
@@ -32,11 +37,13 @@ Advisors: <a href="http://www.kachergis.com/">George Kachergis</a>, <a href="htt
 <br>
 <br>
 <img src = "/images/taishanese.jpg" class="center" width = "auto" height = "300">
-<p style="text-align:center;"><i>A Taishanese Elicitation Session</i></p>
+<p style="text-align:center;"><i>A Taishanese elicitation session</i></p>
 
 Advisor: <a href="https://www.ling.upenn.edu/~gene/home.html">Eugene Buckley</a>
 
-View <a href="https://www.ling.upenn.edu/Events/PLC/plc44/4A.pdf">abstract</a>.
+Taishanese is a Sinitic language spoken in Southern China with five phonemic tones: three of which are level tones and two are falling. A "changed tone" process has been observed in the language wherein the tonal contours of the underlying tones can be modified. This project focused on one specific type of "changed tone" where a level or falling tone is realized as a rising tone - which does not otherwise occur in the language. Using field recordings of Taishanese speakers, the result is an optimality-theoretic analysis of the phenomenon. In this analysis, I propose a new constraint restricting consecutive level tones of any kind.
+
+This project was originially to be presented as a talk at the Penn Linguistics Conference in March 2020 which was ultimately cancelled due to COVID-19. You can view the abstract <a href="https://www.ling.upenn.edu/Events/PLC/plc44/4A.pdf">here</a>.
 
 <u>Q'eqchi' Glottalic Stops </u>
 
