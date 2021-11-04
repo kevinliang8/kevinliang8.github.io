@@ -31,6 +31,19 @@ This project began as part of my summer 2021 internship at the Stanford Language
 
 <i>Manuscript in progress.</i>
 
+<u>Q'eqchi' Glottalic Stops </u>
+
+<img src = "/images/qeqchi.png" class="center" width = "auto" height = "400">
+<p style="text-align:center;"><i>An implosive-like stop in Q'eqchi'</i></p>
+
+Advisor: <a href="https://www.sas.upenn.edu/~kuangj/Home.html">Jianjing Kuang</a>
+
+Glottalic stops - namely ejectives and implosives - exhibit very different characteristics accoustically. Nonetheless, languages which contrast them are typologically rare. In Mayan languages, glottalic stops are typically ejectives; however, biliabial and uvular stops can vary between more ejective-like and more implosive-like realizations. Thus, we examined audio recordings from the <a href="http://archive.phonetics.ucla.edu/">UCLA Phonetics Lab Archive</a> to explore whether the realization of glottalic stops in Q'eqchi' varies systematically based on phonetic context or by speaker.
+
+This research was presented at a poster session of the meeting of the Acoustical Society of America (ASA) in December 2019. You can view the abstract <a href="https://asa.scitation.org/doi/10.1121/1.5137430">here</a> and the poster <a href="https://drive.google.com/file/d/1WHaSW6_JgtUuRSoP3cQeNNj9LYOflMDZ/view?usp=sharing">here</a>.
+
+<i>Manuscript in progress.</i>
+
 <h3 style="text-align:center;">Previous Projects</h3>
 <br>
 <u>Taishanese Tone </u>
@@ -45,16 +58,6 @@ Taishanese is a Sinitic language spoken in Southern China with five phonemic ton
 
 This project was originially to be presented as a talk at the Penn Linguistics Conference in March 2020 which was ultimately cancelled due to COVID-19. You can view the abstract <a href="https://www.ling.upenn.edu/Events/PLC/plc44/4A.pdf">here</a>.
 
-<u>Q'eqchi' Glottalic Stops </u>
-
-<img src = "/images/qeqchi.png" class="center" width = "auto" height = "400">
-<p style="text-align:center;"><i>An implosive-like stop in Q'eqchi'</i></p>
-
-Advisor: <a href="https://www.sas.upenn.edu/~kuangj/Home.html">Jianjing Kuang</a>
-
-Glottalic stops - namely ejectives and implosives - exhibit very different characteristics accoustically. Nonetheless, languages which contrast them are typologically rare. In Mayan languages, glottalic stops are typically ejectives; however, biliabial and uvular stops can vary between more ejective-like and more implosive-like realizations. Thus, we examined audio recordings from the <a href="http://archive.phonetics.ucla.edu/">UCLA Phonetics Lab Archive</a> to explore whether the realization of glottalic stops in Q'eqchi' varies systematically based on phonetic context or by speaker.
-
-This research was presented at a poster session of the meeting of the Acoustical Society of America (ASA) in December 2019. You can view the abstract <a href="https://asa.scitation.org/doi/10.1121/1.5137430">here</a> and the poster <a href="https://drive.google.com/file/d/1WHaSW6_JgtUuRSoP3cQeNNj9LYOflMDZ/view?usp=sharing">here</a>.
 
 
 
