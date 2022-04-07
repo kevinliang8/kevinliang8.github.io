@@ -24,7 +24,7 @@ email: kevliang@sas.upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I am an undergraduate at the University of Pennsylvania studying Linguistics and Computer Science. In the fall, I will 
   be starting my PhD in Linguistics at the University of California, Los Angeles. 
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 curriculum: https://drive.google.com/file/d/1OE-LGnCqFZ_uGPVWDuOIYejBCBwt2LLS/view?usp=sharing
 # Build settings
