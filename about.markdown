@@ -18,7 +18,7 @@ An important task faced by children during language acquisition is the formation
 
 This work was presented at a poster session of the Boston University Conference on Language Development (BUCLD) in November 2021 and as a talk at the Linguistics Society of America Annual Meeting in January 2022. You can view the BUCLD video overview <a href="https://vimeo.com/633957221/1dfe80ab5f">here</a> and the poster <a href="https://drive.google.com/file/d/1cRuRvgVrL38WP7U-XlmRaYwK9p0D7iDJ/view?usp=sharing">here</a>.
 
-<i>Manuscript in progress.</i> An earlier version of a manuscript for this project can be accessed <a href="https://drive.google.com/file/d/1q_Bzh6pX6mTeXibn2rrWXtZQA96RA09g/view?usp=sharing">here</a>
+This project will appear in the proceedings of the BUCLD later this year. An earlier version of a manuscript for this project can be accessed <a href="https://drive.google.com/file/d/1q_Bzh6pX6mTeXibn2rrWXtZQA96RA09g/view?usp=sharing">here</a>
 
 <u>Cross-Situational Word Learning Model Bakeoff</u>
 
