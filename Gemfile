@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 3.9.0"
 gem "webrick"
 gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "academic", "~> 0.5.4"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

@@ -32,7 +32,11 @@ theme: academic
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+  - jekyll-sitemap
+sitemap:
+    filename: "/sitemap.xml"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
