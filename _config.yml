@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   be starting my PhD in Linguistics at the University of California, Los Angeles. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kevinliang8.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-curriculum: https://drive.google.com/file/d/1OE-LGnCqFZ_uGPVWDuOIYejBCBwt2LLS/view?usp=sharing
+curriculum: https://kevinliang8.github.io/CV.pdf
 # Build settings
 theme: academic
 plugins:
