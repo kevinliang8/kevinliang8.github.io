@@ -31,6 +31,9 @@ This project began as part of my summer 2021 internship at the Stanford Language
 
 <i>Manuscript in progress.</i>
 
+
+<h3 style="text-align:center;">Previous Projects</h3>
+<br>
 <u>Q'eqchi' Glottalic Stops </u>
 
 <img src = "/images/qeqchi.png" class="center" width = "auto" height = "400">
@@ -42,10 +45,6 @@ Glottalic stops - namely ejectives and implosives - exhibit very different chara
 
 This research was presented at a poster session of the meeting of the Acoustical Society of America (ASA) in December 2019. You can view the abstract <a href="https://asa.scitation.org/doi/10.1121/1.5137430">here</a> and the poster <a href="https://drive.google.com/file/d/1WHaSW6_JgtUuRSoP3cQeNNj9LYOflMDZ/view?usp=sharing">here</a>.
 
-<i>Manuscript in progress.</i>
-
-<h3 style="text-align:center;">Previous Projects</h3>
-<br>
 <u>Taishanese Tone </u>
 <br>
 <br>
