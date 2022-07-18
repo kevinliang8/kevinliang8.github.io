@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <br>
-<h3 style="text-align:center;">Current Projects</h3>
+<h3 style="text-align:center;"> Sample Projects</h3>
 <br>
 <u>Syntactic Category Acquisition</u>
 
@@ -18,7 +18,7 @@ An important task faced by children during language acquisition is the formation
 
 This work was presented at a poster session of the Boston University Conference on Language Development (BUCLD) in November 2021 and as a talk at the Linguistics Society of America Annual Meeting in January 2022. You can view the BUCLD video overview <a href="https://vimeo.com/633957221/1dfe80ab5f">here</a> and the poster <a href="https://drive.google.com/file/d/1cRuRvgVrL38WP7U-XlmRaYwK9p0D7iDJ/view?usp=sharing">here</a>.
 
-This project will appear in the proceedings of the BUCLD later this year. An earlier version of a manuscript for this project can be accessed <a href="https://drive.google.com/file/d/1q_Bzh6pX6mTeXibn2rrWXtZQA96RA09g/view?usp=sharing">here</a>
+This project was publichsed in the proceedings of the BUCLD and can be viewed <a href="http://www.lingref.com/bucld/46/BUCLD46-34.pdf">here</a>.
 
 <u>Cross-Situational Word Learning Model Bakeoff</u>
 
@@ -31,6 +31,8 @@ This project began as part of my summer 2021 internship at the Stanford Language
 
 <i>Manuscript in progress.</i>
 
+
+
 <u>Q'eqchi' Glottalic Stops </u>
 
 <img src = "/images/qeqchi.png" class="center" width = "auto" height = "400">
@@ -42,10 +44,6 @@ Glottalic stops - namely ejectives and implosives - exhibit very different chara
 
 This research was presented at a poster session of the meeting of the Acoustical Society of America (ASA) in December 2019. You can view the abstract <a href="https://asa.scitation.org/doi/10.1121/1.5137430">here</a> and the poster <a href="https://drive.google.com/file/d/1WHaSW6_JgtUuRSoP3cQeNNj9LYOflMDZ/view?usp=sharing">here</a>.
 
-<i>Manuscript in progress.</i>
-
-<h3 style="text-align:center;">Previous Projects</h3>
-<br>
 <u>Taishanese Tone </u>
 <br>
 <br>

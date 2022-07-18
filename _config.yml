@@ -22,17 +22,20 @@ title: Kevin Liang
 email: kevliang@sas.upenn.edu
 # pitch: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  I am an undergraduate at the University of Pennsylvania studying Linguistics and Computer Science. In the fall, I will 
-  be starting my PhD in Linguistics at the University of California, Los Angeles. 
+  I am a first-year PhD student in linguistics at the University of California, Los Angeles. Previously, I did my undergrad at the University of Pennsylvania studying Linguistics and Computer Science. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kevinliang8.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-curriculum: https://drive.google.com/file/d/1OE-LGnCqFZ_uGPVWDuOIYejBCBwt2LLS/view?usp=sharing
+curriculum: https://kevinliang8.github.io/CV.pdf
 # Build settings
 theme: academic
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+  - jekyll-sitemap
+sitemap:
+    filename: "/sitemap.xml"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
