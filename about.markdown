@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <br>
-<h3 style="text-align:center;">Current Projects</h3>
+<h3 style="text-align:center;">Sample Projects</h3>
 <br>
 <u>Syntactic Category Acquisition</u>
 
@@ -18,7 +18,7 @@ An important task faced by children during language acquisition is the formation
 
 This work was presented at a poster session of the Boston University Conference on Language Development (BUCLD) in November 2021 and as a talk at the Linguistics Society of America Annual Meeting in January 2022. You can view the BUCLD video overview <a href="https://vimeo.com/633957221/1dfe80ab5f">here</a> and the poster <a href="https://drive.google.com/file/d/1cRuRvgVrL38WP7U-XlmRaYwK9p0D7iDJ/view?usp=sharing">here</a>.
 
-This project will appear in the proceedings of the BUCLD later this year. An earlier version of a manuscript for this project can be accessed <a href="https://drive.google.com/file/d/1q_Bzh6pX6mTeXibn2rrWXtZQA96RA09g/view?usp=sharing">here</a>
+This project was published in the proceedings of the BUCLD later and can be accessed <a href="http://www.lingref.com/bucld/46/BUCLD46-34.pdf">here</a>.
 
 <u>Cross-Situational Word Learning Model Bakeoff</u>
 
@@ -44,8 +44,7 @@ This research was presented at a poster session of the meeting of the Acoustical
 
 <i>Manuscript in progress.</i>
 
-<h3 style="text-align:center;">Previous Projects</h3>
-<br>
+
 <u>Taishanese Tone </u>
 <br>
 <br>
