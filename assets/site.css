@@ -57,7 +57,7 @@ header .wrap {
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: baseline;
-  gap: 4px 24px;
+  gap: 4px 16px;
 }
 .site-title {
   font-size: 21px;
@@ -68,7 +68,7 @@ header .wrap {
 nav {
   display: flex;
   flex-wrap: wrap;
-  gap: 2px 16px;
+  gap: 2px 12px;
 }
 nav a,
 nav a:visited {
