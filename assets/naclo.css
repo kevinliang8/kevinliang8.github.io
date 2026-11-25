@@ -1,0 +1,39 @@
+/* NACLO at McMaster page. McMaster Heritage Maroon #7A003C, Heritage Gold #FDBF57 */
+
+.naclo h1,
+.naclo h2 { color: #7a003c; }
+.naclo a,
+.naclo a:visited { color: #7a003c; }
+.naclo a:hover { color: #4d0026; }
+
+.naclo-logo { display: block; height: 72px; width: auto; margin: 0 0 18px; }
+
+table.schedule {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 6px 0 14px;
+}
+.schedule th {
+  background: #7a003c;
+  color: #fff;
+  text-align: left;
+  font-weight: 700;
+  padding: 8px 10px;
+}
+.schedule td {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  vertical-align: top;
+}
+.schedule tbody tr:nth-child(even) { background: #f6f3f4; }
+.schedule td:first-child { font-weight: 700; }
+.schedule .arrive { color: #555; font-size: 16px; }
+
+@media (max-width: 600px) {
+  .naclo-logo { height: 56px; }
+  .schedule thead { display: none; }
+  .schedule tr { display: block; border-bottom: 1px solid #ccc; padding: 6px 0; }
+  .schedule td { display: block; border: 0; padding: 2px 10px; }
+  .schedule td:first-child { color: #7a003c; padding-top: 6px; }
+  .schedule td:not(:first-child)::before { content: attr(data-label) ": "; font-weight: 700; }
+}
